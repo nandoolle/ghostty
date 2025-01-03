@@ -3,6 +3,10 @@ font-family = JetBrains Nerd Font
 # font-family = SFMono Nerd Font 
 font-size = 14
 
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
+
 theme = rose-pine
 shell-integration-features = no-cursor,sudo,no-title
 cursor-style = block
