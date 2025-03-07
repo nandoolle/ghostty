@@ -1,23 +1,18 @@
-font-family = JetBrains Nerd Font
+font-family = "JetBrains Nerd Font"
 font-size = 14
 
 font-feature = -calt
 font-feature = -liga
 font-feature = -dlig
 
-theme = rose-pine
-shell-integration-features = no-cursor,sudo,no-title
-cursor-style = block
 adjust-cell-height = 35%
-background-opacity = 0.96
 background-blur-radius = 7
 unfocused-split-opacity = 0.25
-mouse-hide-while-typing = true
-mouse-scroll-multiplier = 2
 
 window-save-state = always
-window-padding-x = 60
-window-padding-y = 60
-macos-titlebar-style=transparent
 
-copy-on-select = clipboard
+macos-titlebar-style=transparent
+background-opacity = 0.96
+
+macos-icon = xray
+
