@@ -22,7 +22,6 @@ mouse-scroll-multiplier = 2
 # Window settings
 window-theme=system
 window-padding-x = 8
-window-padding-y = 8
 window-save-state = always
 window-vsync = true
 window-colorspace = display-p3
