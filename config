@@ -1,4 +1,4 @@
-# Font settings
+# Font setting
 font-family = "JetBrains Nerd Font"
 font-size = 14
 font-feature = -calt
@@ -10,14 +10,14 @@ theme = "Firefly Traditional"
 
 # Cursor settings
 cursor-style = underline
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+cursor-color = #999
+cursor-style = block
 
 # Background settings
 background-opacity = 0.8
 background-blur-radius = 10
-
-# Mouse settings
-mouse-hide-while-typing = true
-mouse-scroll-multiplier = 2
 
 # Window settings
 window-theme=system
@@ -25,24 +25,17 @@ window-padding-x = 8
 window-save-state = always
 window-vsync = true
 window-colorspace = display-p3
-
 unfocused-split-opacity = 0.5
-
-adjust-cell-height = 35%
-
-# Settings for macOS
-macos-titlebar-style = tabs
-macos-titlebar-proxy-icon = visible
-
 quit-after-last-window-closed = true
 
-shell-integration-features = true
-
+# Splits settings
+adjust-cell-height = 35%
 focus-follows-mouse = true
-
 split-divider-color = #333333
 
-# cursor-invert-fg-bg = true
-
-cursor-color = #999
+# MacOS Settings
+macos-titlebar-style = tabs
+macos-titlebar-proxy-icon = visible
+shell-integration-features = true
+shell-integration-features = no-cursor
 
