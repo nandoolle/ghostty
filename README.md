@@ -1,1 +1,1 @@
-# A minimal config to [Ghostty](https://ghostty.org/) terminal emulator
+# A minimal config for [Ghostty](https://ghostty.org/) terminal emulator
